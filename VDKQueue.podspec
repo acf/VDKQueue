@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
     s.platform = :osx,'10.6'
     s.source = { :git => 'https://github.com/acf/VDKQueue.git'}
     s.source_files = '**/*.h','**/*.m'
-    s.licence = <<-LICENCETEXT
+    s.license = <<-LICENCETEXT
     
     Created by Bryan D K Jones on 28 March 2012 Copyright 2013 Bryan D K Jones
 
